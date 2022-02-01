@@ -1,0 +1,2 @@
+x = "some useful str"
+
